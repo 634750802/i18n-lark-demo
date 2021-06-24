@@ -1,0 +1,14 @@
+{
+    "name": "i18n demo project",
+    "description": "i18n demo project description",
+    "locales-dir": "locales",
+    "workflow": "lark.v1",
+    "workflow-options": {
+        "maintainers": [
+            "7b5g79b8"
+        ],
+        "reviewers": [
+            "7b5g79b8"
+        ]
+    }
+}
