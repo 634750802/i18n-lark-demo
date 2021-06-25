@@ -4,6 +4,7 @@
     "locales-dir": "locales",
     "workflow": "lark.v1",
     "workflow-options": {
+        "sheet-folder-token": "fldcnUaXMJ8nM49UEqXIC1Uirxg",
         "maintainers": [
             "ou_e1a384684b944c3d9c3131a4b8c16b76"
         ],
