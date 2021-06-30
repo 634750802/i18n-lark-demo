@@ -31,7 +31,7 @@
     "desc": "Join our community to learn, contribute, grow, and connect with TiDB contributors and users all around the world!",
     "navs": [
       {
-        "isCN": true,
+        "isCN": "true",
         "label": "View",
         "link": "https://asktug.com",
         "title": "Forum"
